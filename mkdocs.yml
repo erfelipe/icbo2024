@@ -1,0 +1,27 @@
+site_name: ICBO
+site_url: https://sourcefoundry.org/cinder/
+site_author: International Conference on Biomedical Ontology
+site_description: "International Conference on Biomedical Ontology ICBO"
+repo_url: "https://github.com/erfelipe2/icbotest"
+copyright: "Cinder template is licensed under the <a href='https://github.com/erfelipe2/icbotest/blob/master/LICENSE.md'>MIT license</a>"
+
+theme:
+  name: null
+  custom_dir: cinder
+  colorscheme: github
+  highlightjs: true
+
+nav:
+  - Home: index.md
+  - Conference: conference.md
+  - Program: program.md
+  - Call for Submissions: call.md
+  - Registration: registration.md
+  - Travel: travel.md
+  - Example 1: example1.md
+  - Example 2: example2.md
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
