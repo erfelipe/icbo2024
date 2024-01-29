@@ -1,4 +1,4 @@
-name: ci 
+name: Build and Deploy Static Mkdocs Documentation
 on:
   push:
     branches:
