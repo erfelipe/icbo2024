@@ -1,5 +1,5 @@
 <br>
-<h1><i class="fas fa-fire" style="color:#FA023C"></i> ICBO [YEAR] <small>conference</small></h1>
+<h1> ICBO [YEAR] <small>conference</small></h1>
 
 ## [NUMBER]th International Conference on Biomedical Ontology 
 
@@ -7,7 +7,7 @@ ICBO is a anual conference [...]
 
 ## Theme of Conference 
 
-[<i> <b> "THEME" </b> </i>]
+<i> <b> [THEME] </b> </i>
 
 ### Important Dates 
 
@@ -26,14 +26,20 @@ ICBO is a anual conference [...]
     </ul>
   </ul>
 
+### Call for Submissions 
+
+Please see [details here](call.md) for further information.
+
 ### Keynote Speakers
 
 <ul>
-    <li><a href="./keynotes.html">[KEYNOTENAME]</a> - [UNIVERSITYNAME] ([COUNTRY])</li>
-    <li><a href="./keynotes.html">[KEYNOTENAME]</a> - [UNIVERSITYNAME] ([COUNTRY])</li>
-    <li><a href="./keynotes.html">[KEYNOTENAME]</a> - [UNIVERSITYNAME] ([COUNTRY])</li>
-    <li><a href="./keynotes.html">[KEYNOTENAME]</a> - [UNIVERSITYNAME] ([COUNTRY])</li>
+    <li>[KEYNOTENAME] - [UNIVERSITYNAME] ([COUNTRY]) </li>
+    <li>[KEYNOTENAME] - [UNIVERSITYNAME] ([COUNTRY]) </li>
+    <li>[KEYNOTENAME] - [UNIVERSITYNAME] ([COUNTRY]) </li>
+    <li>[KEYNOTENAME] - [UNIVERSITYNAME] ([COUNTRY]) </li>
 </ul>
+
+[Biografy and Details](keynotes.md)
 
 ### Location
 
